@@ -1,0 +1,84 @@
+
+body{
+    color: white; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+header{
+background: url("mercedes.jpg") ;
+height: 300px;
+width: 60%;
+background-size: cover;
+background-repeat: no-repeat;
+margin-left:0px ;
+margin-top: 30px;
+margin: 150px;
+border: 2px;
+border-radius: 20px;
+}
+
+#contenedor{
+    border:2px solid black;
+    padding: 200px;
+    border-radius: 30px;
+    
+    
+
+}
+#video{
+text-align: right;
+}
+
+#nombres{
+     text-align:right ;
+}
+
+h1{
+text-align: left;
+}
+
+    
+h3{
+    text-align: left;
+}
+
+
+
+.textoo{
+text-align:justify; 
+text-align: ;
+
+
+}
+
+
+.logo{
+margin-left:10%;
+width: 80px;
+height: 80px;
+float: left;
+
+
+}
+#nombres{
+    text-align: right;
+
+}
+
+
+
+
+aside {
+ width: 200px;
+ background-color: green;
+ color: #fff;
+ border:5px solid black; 
+ padding: 2px;
+ border: 2px solid black; 
+ margin-left: 200px;
+ top: 50x;
+float: left;
+box-shadow: red;
+
+}
+
+
